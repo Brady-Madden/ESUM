@@ -1,6 +1,8 @@
 Welcome to ESUM
 This is a Senior Design Project by:
+
 Brady Madden, Vyanna Hill, Brandon Ozsashin, and Jayson Schaefer
+
 The Goal of ESUM is to take Long Email Threads and Condense these Threads into easy to Read and Manageable Text Boxes/Chats, which can eventually be integrated into an email providers services such as outlook.
 
 
