@@ -1,3 +1,9 @@
+Welcome to ESUM
+This is a Senior Design Project by:
+Brady Madden, Vyanna Hill, Brandon Ozsashin, and Jayson Schaefer
+The Goal of ESUM is to take Long Email Threads and Condense these Threads into easy to Read and Manageable Text Boxes/Chats, which can eventually be integrated into an email providers services such as outlook.
+
+
 HOW TO USE ESUM BACKEND CODE TO RUN *PLEASE USE MICROSOFT OS* *ignore "" when typing in commands*
 In order to use ESUM fully you will need to obtain the files given either through git or submission.
 Firstly open the file inside an IDE. then go to file directory "\esum database" and run through a terminal.
